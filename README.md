@@ -6,7 +6,7 @@ Showcases the integration of LLMs with the browser_use library to automate web i
 
 ### Prerequisites
 
-- **Python 3.8 or higher**: Ensure Python is installed on your system. You can download it from the [official website](https://www.python.org/downloads/).
+- **Python 3.12 or higher**: Ensure Python is installed on your system. You can download it from the [official website](https://www.python.org/downloads/).
 - **OpenAI API Key**: Obtain your API key from [OpenAI](https://platform.openai.com/account/api-keys).
 
 ### Installation
